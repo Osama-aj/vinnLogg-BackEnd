@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="FirebaseAdmin" Version="1.9.2" />
+    <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
+    <ProjectReference Include="..\basement.core\basement.core.csproj" />
+  </ItemGroup>
+
+</Project>

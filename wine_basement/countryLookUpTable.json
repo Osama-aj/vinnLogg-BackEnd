@@ -1,0 +1,402 @@
+[
+  {
+    "English": "",
+    "Swedish": "Antigua & Barbuda"
+  },
+  {
+    "English": "Argentina",
+    "Swedish": "Argentina"
+  },
+  {
+    "English": "Armenia",
+    "Swedish": "Armenien"
+  },
+  {
+    "English": "Australia",
+    "Swedish": "Australien"
+  },
+  {
+    "English": "",
+    "Swedish": "Barbados"
+  },
+  {
+    "English": "",
+    "Swedish": "Belgien"
+  },
+  {
+    "English": "",
+    "Swedish": "Belize"
+  },
+  {
+    "English": "Bosnia and Herzegovina",
+    "Swedish": "Bosnien-Hercegovina"
+  },
+  {
+    "English": "Brazil",
+    "Swedish": "Brasilien"
+  },
+  {
+    "English": "Bulgaria",
+    "Swedish": "Bulgarien"
+  },
+  {
+    "English": "Chile",
+    "Swedish": "Chile"
+  },
+  {
+    "English": "",
+    "Swedish": "Colombia"
+  },
+  {
+    "English": "Cyprus",
+    "Swedish": "Cypern"
+  },
+  {
+    "English": "",
+    "Swedish": "Danmark"
+  },
+  {
+    "English": "",
+    "Swedish": "Dominikanska Republiken"
+  },
+  {
+    "English": "",
+    "Swedish": "Ecuador"
+  },
+  {
+    "English": "Egypt",
+    "Swedish": "Egypten"
+  },
+  {
+    "English": "",
+    "Swedish": "El Salvador"
+  },
+  {
+    "English": "",
+    "Swedish": "Eritrea"
+  },
+  {
+    "English": "",
+    "Swedish": "Estland"
+  },
+  {
+    "English": "",
+    "Swedish": "EU"
+  },
+  {
+    "English": "",
+    "Swedish": "Fiji"
+  },
+  {
+    "English": "",
+    "Swedish": "Filippinerna"
+  },
+  {
+    "English": "",
+    "Swedish": "Finland"
+  },
+  {
+    "English": "",
+    "Swedish": "Folkrepubliken Kina"
+  },
+  {
+    "English": "France",
+    "Swedish": "Frankrike"
+  },
+  {
+    "English": "Georgia",
+    "Swedish": "Georgien"
+  },
+  {
+    "English": "Greece",
+    "Swedish": "Grekland"
+  },
+  {
+    "English": "",
+    "Swedish": "Grenada"
+  },
+  {
+    "English": "",
+    "Swedish": "Guatemala"
+  },
+  {
+    "English": "",
+    "Swedish": "Guernsey"
+  },
+  {
+    "English": "",
+    "Swedish": "Guyana"
+  },
+  {
+    "English": "",
+    "Swedish": "Haiti"
+  },
+  {
+    "English": "India",
+    "Swedish": "Indien"
+  },
+  {
+    "English": "",
+    "Swedish": "Indonesien"
+  },
+  {
+    "English": "",
+    "Swedish": "Internationellt märke"
+  },
+  {
+    "English": "",
+    "Swedish": "Irland"
+  },
+  {
+    "English": "",
+    "Swedish": "Island"
+  },
+  {
+    "English": "Israel",
+    "Swedish": "Israel"
+  },
+  {
+    "English": "Italy",
+    "Swedish": "Italien"
+  },
+  {
+    "English": "",
+    "Swedish": "Jamaica"
+  },
+  {
+    "English": "",
+    "Swedish": "Japan"
+  },
+  {
+    "English": "Canada",
+    "Swedish": "Kanada"
+  },
+  {
+    "English": "",
+    "Swedish": "Kenya"
+  },
+  {
+    "English": "China",
+    "Swedish": "Kina"
+  },
+  {
+    "English": "Croatia",
+    "Swedish": "Kroatien"
+  },
+  {
+    "English": "",
+    "Swedish": "Kuba"
+  },
+  {
+    "English": "",
+    "Swedish": "Lettland"
+  },
+  {
+    "English": "Lebanon",
+    "Swedish": "Libanon"
+  },
+  {
+    "English": "",
+    "Swedish": "Litauen"
+  },
+  {
+    "English": "Luxembourg",
+    "Swedish": "Luxemburg"
+  },
+  {
+    "English": "Macedonia",
+    "Swedish": "Makedonien"
+  },
+  {
+    "English": "",
+    "Swedish": "Malta"
+  },
+  {
+    "English": "Morocco",
+    "Swedish": "Marocko"
+  },
+  {
+    "English": "",
+    "Swedish": "Mauritius"
+  },
+  {
+    "English": "Mexico",
+    "Swedish": "Mexiko"
+  },
+  {
+    "English": "Moldova",
+    "Swedish": "Moldavien"
+  },
+  {
+    "English": "",
+    "Swedish": "Namibia"
+  },
+  {
+    "English": "",
+    "Swedish": "Nederländerna"
+  },
+  {
+    "English": "",
+    "Swedish": "Nicaragua"
+  },
+  {
+    "English": "",
+    "Swedish": "Nigeria"
+  },
+  {
+    "English": "",
+    "Swedish": "Nordmakedonien"
+  },
+  {
+    "English": "",
+    "Swedish": "Norge"
+  },
+  {
+    "English": "New Zealand",
+    "Swedish": "Nya Zeeland"
+  },
+  {
+    "English": "Okänt ursprung",
+    "Swedish": "Okänt ursprung"
+  },
+  {
+    "English": "Austria",
+    "Swedish": "Österrike"
+  },
+  {
+    "English": "",
+    "Swedish": "Övriga ursprung"
+  },
+  {
+    "English": "",
+    "Swedish": "Panama"
+  },
+  {
+    "English": "",
+    "Swedish": "Paraguay"
+  },
+  {
+    "English": "Peru",
+    "Swedish": "Peru"
+  },
+  {
+    "English": "",
+    "Swedish": "Polen"
+  },
+  {
+    "English": "Portugal",
+    "Swedish": "Portugal"
+  },
+  {
+    "English": "Romania",
+    "Swedish": "Rumänien"
+  },
+  {
+    "English": "",
+    "Swedish": "Ryssland"
+  },
+  {
+    "English": "",
+    "Swedish": "SaintKitts & Nevis"
+  },
+  {
+    "English": "Switzerland",
+    "Swedish": "Schweiz"
+  },
+  {
+    "English": "Serbia",
+    "Swedish": "Serbien"
+  },
+  {
+    "English": "Slovakia",
+    "Swedish": "Slovakien"
+  },
+  {
+    "English": "Slovenia",
+    "Swedish": "Slovenien"
+  },
+  {
+    "English": "Spain",
+    "Swedish": "Spanien"
+  },
+  {
+    "English": "",
+    "Swedish": "SriLanka"
+  },
+  {
+    "English": "",
+    "Swedish": "StLucia"
+  },
+  {
+    "English": "England",
+    "Swedish": "Storbritannien"
+  },
+  {
+    "English": "Sweden",
+    "Swedish": "Sverige"
+  },
+  {
+    "English": "South Africa",
+    "Swedish": "Sydafrika"
+  },
+  {
+    "English": "",
+    "Swedish": "Sydkorea"
+  },
+  {
+    "English": "",
+    "Swedish": "Thailand"
+  },
+  {
+    "English": "Czech Republic",
+    "Swedish": "Tjeckien"
+  },
+  {
+    "English": "",
+    "Swedish": "Trinidad"
+  },
+  {
+    "English": "",
+    "Swedish": "Tunisien"
+  },
+  {
+    "English": "Turkey",
+    "Swedish": "Turkiet"
+  },
+  {
+    "English": "Germany",
+    "Swedish": "Tyskland"
+  },
+  {
+    "English": "Ukraine",
+    "Swedish": "Ukraina"
+  },
+  {
+    "English": "Hungary",
+    "Swedish": "Ungern"
+  },
+  {
+    "English": "Uruguay",
+    "Swedish": "Uruguay"
+  },
+  {
+    "English": "US",
+    "Swedish": "USA"
+  },
+  {
+    "English": "",
+    "Swedish": "Varierande ursprung"
+  },
+  {
+    "English": "",
+    "Swedish": "Venezuela"
+  },
+  {
+    "English": "",
+    "Swedish": "Vietnam"
+  },
+  {
+    "English": "",
+    "Swedish": "Vitryssland"
+  }
+]

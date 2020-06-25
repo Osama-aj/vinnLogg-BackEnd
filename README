@@ -1,0 +1,228 @@
+This is a backend part for my degree project (frontend) which you can found in my github as well
+
+dependencies :
+dotnet 
+postgreSQL
+
+
+In wine_basement...
+-- to build the database :
+// delete Migrations file in 'basement.database/Migrations' if exists then 
+
+- dotnet ef migrations add {migration name} --project ../basement.database/basement.database.csproj
+- dotnet ef database update  --project ../basement.database/basement.database.csproj
+
+-- to run the server :
+- type "dotnet run"
+
+
+
+
+
+----------------
+APIs :
+
+
+/////////////////////////////
+      Meta Data
+////////////////////////////
+get: ~/api/metadata  -> query countries and grapes
+get: ~/api/metadata/countries  -> query countries 
+get: ~/api/metadata/grapes    -> query grapes 
+
+
+/////////////////////////////
+      Wine list
+////////////////////////////
+- get wine list for a user (all or by filter)
+get: ~api/userswinelist?startsWith=(default all)&shelfid=(default all)&wineId=(default all)&districtId=(default all)&regionId=(default all)&countryId=(default all)&grapeId=(default all)  -> users winelist ... and can be filtered by many attributes
+
+get: ~api/allwinelist?startsWith=(default all)&wineId=(default all)&districtId=(default all)&regionId=(default all)&countryId=(default all)&grapeId=(default all)  -> all winelist with user wine details ... and can be filtered by many attributes
+
+
+/////////////////////////////
+      Wine
+////////////////////////////
+
+==> this get-call is redundant and you dont need to useit <==
+- get all wines
+get: ~/api/wines? 
+
+- get wines by 
+get: ~/api/wines?wineId=(default all)&districtId=(default all)&regionId=(default all)&countryId=(default all)&startsWith=(string, default all)&grapeId=(default all)
+==> this get-call is redundant and you dont need to useit <==
+
+
+
+
+-  add new wine
+post: ~/api/wines 
+
+
+- add wine format 
+{
+    "name": {string, Required},
+    "image": {string},
+    "Producer":{string, Required},
+    "districtId": {long, Required},
+    "alcohol": {double},
+    "WineGrapes": 
+       [{
+            "grapeId": {long, Required},
+            "percent" : {int}
+        }]
+}
+
+
+-update wine 
+put: ~/api/wines 
+
+- update wine format
+{
+    "wineId": {long ,Required},
+    "name": {string},
+    "image": {string},
+    "Producer":{string},
+    "districtId": {long},
+    "alcohol": {double},
+    "WineGrapes": 
+       [{
+            "grapeId": {long, Required},
+            "percent" : {int}
+        }]
+}
+
+- delete wine 
+delete: ~/api/wines?id={wine id}
+
+
+
+
+
+
+
+/////////////////////////////
+      Inventory
+////////////////////////////
+
+- add new inventory 
+post: ~/api/inventories
+  
+- add inventory format
+{
+    "amount": {int, Required},
+    "vintageid": {long, Required},
+    "shelfid": {long, Required}
+}
+
+- update inventory
+put: ~/api/inventories 
+
+- update inventory format
+{
+    "InventoryId":  {long, Required},
+    "Amount": {int}
+  
+}
+
+-delete inventory
+delete: ~/api/inventories?Id={inventoryId}
+
+
+
+
+/////////////////////////////
+      vintage
+////////////////////////////
+
+- get all vintages for a specific wine 
+get: ~/api/vintages?wineid={wineid ,Required}
+
+
+- add new vintage 
+post: ~/api/vintages  
+
+- add vintage format 
+
+{
+    "year": {int, Required},
+    "ean": {string},
+    "WineId": {long, Required}
+}
+
+- update vintage
+put: ~/api/vintages  
+{
+    "VintageId": {long, Required},
+    "year": {int},
+    "ean": {string}
+}
+
+ - delete vintage
+delete: ~/api/vintages?id={vintageid}
+
+/////////////////////////////
+      shelf
+////////////////////////////
+
+
+- get all shelves for a user 
+get: ~/api/shelves
+
+
+- add new shelf
+post: ~/api/shelves
+
+- add shelf format
+{
+    "ShelfName": {string, Required}
+}
+
+
+ - update shelf 
+put: ~/api/shelves
+{
+    "shelfId": {long, Required},
+    "ShelfName": {string}
+}
+ - delete shelf
+delete: ~/api/shelves?id={shelfId}
+
+
+
+////////////////////////////
+	wine images
+////////////////////////////
+
+- get a wineimage  
+
+get: ~/api/images/original?wineid={long , default -1}
+get: ~/api/images/thumbnail??wineid={long , default -1}
+
+////////////////////////////
+	user section
+////////////////////////////
+ - add user
+
+POST -> ~/api/users/register
+
+{
+	"UserName":{string, Required},	
+}
+
+
+
+ - update user
+
+PUT -> ~/api/users
+
+{
+	"UserName":{string, Required},	
+}
+
+
+ - delete user 
+DELETE -> ~/api/users
+ 
+
+

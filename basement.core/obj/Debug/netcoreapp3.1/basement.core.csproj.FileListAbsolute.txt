@@ -1,0 +1,9 @@
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.core\bin\Debug\netcoreapp3.1\basement.core.deps.json
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.core\bin\Debug\netcoreapp3.1\basement.core.dll
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.core\bin\Debug\netcoreapp3.1\basement.core.pdb
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.core\obj\Debug\netcoreapp3.1\basement.core.csprojAssemblyReference.cache
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.core\obj\Debug\netcoreapp3.1\basement.core.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.core\obj\Debug\netcoreapp3.1\basement.core.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.core\obj\Debug\netcoreapp3.1\basement.core.AssemblyInfo.cs
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.core\obj\Debug\netcoreapp3.1\basement.core.dll
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.core\obj\Debug\netcoreapp3.1\basement.core.pdb

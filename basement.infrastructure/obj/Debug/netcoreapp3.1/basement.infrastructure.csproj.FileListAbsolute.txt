@@ -1,0 +1,12 @@
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\bin\Debug\netcoreapp3.1\basement.infrastructure.deps.json
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\bin\Debug\netcoreapp3.1\basement.infrastructure.dll
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\bin\Debug\netcoreapp3.1\basement.infrastructure.pdb
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\bin\Debug\netcoreapp3.1\basement.core.dll
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\bin\Debug\netcoreapp3.1\basement.core.pdb
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\obj\Debug\netcoreapp3.1\basement.infrastructure.csprojAssemblyReference.cache
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\obj\Debug\netcoreapp3.1\basement.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\obj\Debug\netcoreapp3.1\basement.infrastructure.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\obj\Debug\netcoreapp3.1\basement.infrastructure.AssemblyInfo.cs
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\obj\Debug\netcoreapp3.1\basement.infrastructure.csproj.CopyComplete
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\obj\Debug\netcoreapp3.1\basement.infrastructure.dll
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.infrastructure\obj\Debug\netcoreapp3.1\basement.infrastructure.pdb

@@ -1,0 +1,17 @@
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\bin\Debug\netcoreapp3.1\basement.database.deps.json
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\bin\Debug\netcoreapp3.1\basement.database.runtimeconfig.json
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\bin\Debug\netcoreapp3.1\basement.database.runtimeconfig.dev.json
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\bin\Debug\netcoreapp3.1\basement.database.dll
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\bin\Debug\netcoreapp3.1\basement.database.pdb
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\bin\Debug\netcoreapp3.1\basement.core.dll
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\bin\Debug\netcoreapp3.1\basement.infrastructure.dll
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\bin\Debug\netcoreapp3.1\basement.infrastructure.pdb
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\bin\Debug\netcoreapp3.1\basement.core.pdb
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\obj\Debug\netcoreapp3.1\basement.database.csprojAssemblyReference.cache
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\obj\Debug\netcoreapp3.1\basement.database.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\obj\Debug\netcoreapp3.1\basement.database.AssemblyInfoInputs.cache
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\obj\Debug\netcoreapp3.1\basement.database.AssemblyInfo.cs
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\obj\Debug\netcoreapp3.1\basement.database.csproj.CopyComplete
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\obj\Debug\netcoreapp3.1\basement.database.dll
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\obj\Debug\netcoreapp3.1\basement.database.pdb
+C:\Users\usama\Desktop\LIA2\vinloggGit\vinlogg\server\basement.database\obj\Debug\netcoreapp3.1\basement.database.genruntimeconfig.cache

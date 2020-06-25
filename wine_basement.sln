@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wine_basement", "wine_basement\wine_basement.csproj", "{9D952CAC-3C69-424D-8103-DC904317A83C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basement.database", "basement.database\basement.database.csproj", "{B3AD27C4-A7A8-4D6D-8DC1-79EF1C45E4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basement.infrastructure", "basement.infrastructure\basement.infrastructure.csproj", "{FED8854C-8269-4412-8960-476A0E2715C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basement.core", "basement.core\basement.core.csproj", "{E2C1B902-A853-4EEC-A0CE-B050797B4172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D952CAC-3C69-424D-8103-DC904317A83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D952CAC-3C69-424D-8103-DC904317A83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D952CAC-3C69-424D-8103-DC904317A83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D952CAC-3C69-424D-8103-DC904317A83C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AD27C4-A7A8-4D6D-8DC1-79EF1C45E4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AD27C4-A7A8-4D6D-8DC1-79EF1C45E4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AD27C4-A7A8-4D6D-8DC1-79EF1C45E4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AD27C4-A7A8-4D6D-8DC1-79EF1C45E4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED8854C-8269-4412-8960-476A0E2715C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED8854C-8269-4412-8960-476A0E2715C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED8854C-8269-4412-8960-476A0E2715C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED8854C-8269-4412-8960-476A0E2715C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C1B902-A853-4EEC-A0CE-B050797B4172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C1B902-A853-4EEC-A0CE-B050797B4172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C1B902-A853-4EEC-A0CE-B050797B4172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C1B902-A853-4EEC-A0CE-B050797B4172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
